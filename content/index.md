@@ -1,6 +1,18 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Digital garden
+tags:
+  - main
 ---
+# Полезные материалы
+- [[Сопромат/Navigation|Сопромат]]
+- [[Java/Navigation|Java]]
+- [[Tips]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Tips|new link]]
+
+| qwewqe                                                  | qweqweqweqweqweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee | wwwwwwwwwwwwwwwwwwwwwwwwww |     |     |
+| ------------------------------------------------------- | ------------------------------------------------------ | -------------------------- | --- | --- |
+| wewwwwwwwwwwwwwwwwwwwwwwwwwwww<br>wwwwwwwwwwwwwwwwwwwww |                                                        |                            |     |     |
+| qweqwewqeqwwwqeqwe                                      |                                                        |                            |     |     |
+| qweqweq                                                 |                                                        |                            |     |     |
+| qweqwe                                                  |                                                        |                            |     |     |
