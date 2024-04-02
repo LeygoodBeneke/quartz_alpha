@@ -55,6 +55,7 @@
 ```
 
 # Create `SharedLibrary` Children Module
+
 `pom.xml`
 ```xml
 <project  
@@ -100,6 +101,7 @@
 ```
 
 # Create `ConsoleApp` Children Module
+
 `pom.xml`
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
@@ -143,12 +145,15 @@
 ```
 
 # Compile project
+
 ```bash
 mvn clean install
 ```
 # Run project
+
 ```bash
 java -cp libs/SharedLibrary-1.0-SNAPSHOT.jar:libs/ConsoleApp-1.0-SNAPSHOT.jar com.mycompany.App
 ```
+
 > [!IMPORTANT]  
 > In parent project folder!
