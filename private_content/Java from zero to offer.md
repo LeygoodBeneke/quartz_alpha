@@ -1,8 +1,4 @@
-
-[MAVEN FULL COURSE](https://www.youtube.com/watch?v=uAQs-YXnY-U)
-[JUNIT COURSE](https://www.youtube.com/watch?v=flpmSXVTqBI)
-[interview questions](https://www.youtube.com/watch?v=CVGmIp9Wv68)
-
-[[Java Module inheritance]]
-
-1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+- [Maven full course](https://www.youtube.com/watch?v=uAQs-YXnY-U)
+- [Junit course](https://www.youtube.com/watch?v=flpmSXVTqBI)
+- [interview questions](https://www.youtube.com/watch?v=CVGmIp9Wv68)
+- [[Java Module inheritance]]
